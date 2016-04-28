@@ -1,0 +1,2 @@
+INSERT into customer_order(id, description, order_date) VALUES(1,'Order number 001','2016-03-12 18:09:00');
+INSERT into customer_order(id, description, order_date) VALUES(2,'Order number 002','2016-03-22 18:11:00');
